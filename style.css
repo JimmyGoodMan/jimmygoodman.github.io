@@ -1,0 +1,71 @@
+.header_main {
+  text-align: center;
+  color: green;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 50px;
+}
+
+.paragraph_main {
+  font-size: 25px;
+  font-family: arial;
+  color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    font-size: 50px;
+}
+
+.paragraph_main_second {
+  font-size: 25px;
+  font-family: arial;
+  color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.paragraph_main_third {
+  font-size: 45px;
+  font-family: arial;
+  color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    text-align: center;
+}
+
+.discord_server {
+  font-size: 40px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: blue;
+  text-align: center;
+}
+
+.paragraph_main_fourth {
+  font-size: 25px;
+  font-family: arial;
+  color: white;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+
+.main_header_second {
+  text-align: center;
+  color: green;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 50px;
+}
+
+.video_youtube {
+  
+
+}
